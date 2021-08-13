@@ -33,16 +33,16 @@ Let's check out my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_pro
 
 ## Project
 
-- **Citizens problems detection**
+- **Citizens problems detection**  
  Deep Learning @ AI4VN
 
-- [**Predict Covid19**](https://github.com/viplazylmht/Predict_Covid19)
+- [**Predict Covid19**](https://github.com/viplazylmht/Predict_Covid19)  
  Machine Learning/Data Visualization/Data Analyst
 
-- [**Plant Pathology**](https://colab.research.google.com/drive/1Ypg77-WWaohRW_mIce7q2mshGX1vBlk5)
+- [**Plant Pathology**](https://colab.research.google.com/drive/1Ypg77-WWaohRW_mIce7q2mshGX1vBlk5)  
  Deep Learning
 
-- [**Hospital Inpatient Discharges**](https://github.com/viplazylmht/P4DS_final)
+- [**Hospital Inpatient Discharges**](https://github.com/viplazylmht/P4DS_final)  
  Data Visualization/Data Analyst
 
 ---
